@@ -209,7 +209,6 @@ We wait your next spin bitchhhhhh Hahaha ~
 
 	function exeCutePUT($post,$url,$deviceInfo)
 	{	
-		//PKT8HD	
 		
 		$headers= array(
 		"device-type: Android",
